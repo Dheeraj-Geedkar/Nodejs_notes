@@ -32,3 +32,10 @@ function multiply( x , y ){
 var c = multiply ( a , b ) ;
 
 console.log(" Multiply result = " , c );
+
+// o/p =>
+
+//     Blocking task
+//     Key 1 is generated
+//     Multiply result = 244654517894974
+//     Key 2 is generated

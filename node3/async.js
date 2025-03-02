@@ -42,3 +42,13 @@ function multiply( x , y ){
 var c = multiply ( a , b ) ;
 
 console.log(" Multiply result = " , c );
+
+
+// o/p => 
+
+//     async task
+//     this will run only after file read
+//     Multiply result = 3686481632461324487
+//      File data =  file data used for dummy testing purpose
+//      fetched data successfully
+//      setTimeout Called after 5 seconds

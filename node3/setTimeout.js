@@ -22,3 +22,9 @@ function multiply( x , y ){
 var c = multiply ( a , b ) ;
 
 console.log(" Multiply result = " , c );
+
+// o/p => 
+
+//     Hello World
+//     Multiply result = 3647816416
+//     Call me as soon as possible

@@ -11,3 +11,9 @@ function multiply( x , y ){
 var c = multiply ( a , b ) ;
 
 console.log(" Multiply result = " , c );
+
+
+// o/p =>
+
+//     sync task
+//     Multiply result = 127288574579 
